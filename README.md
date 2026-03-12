@@ -1,28 +1,108 @@
-# 👋 Olá, eu sou o Nick
+# 👋 Olá! Eu sou Nicolas Alan Alcantara Moraes
 
-💻 Estudante de Análise e Desenvolvimento de Sistemas  
-🚀 Interessado em desenvolvimento, dados e automação  
-🎹 Músico na igreja e apaixonado por tecnologia  
-
----
-
-## 🚀 Tecnologias que estudo
-
-- SQL
-- PostgreSQL
-- JavaScript
-- Python
-- Git e GitHub
+💻 Estudante de **Análise e Desenvolvimento de Sistemas**
+📊 Focado em **Análise de Dados, Automação e Desenvolvimento Web**
+🚀 Experiência prática com **SQL, Python, PostgreSQL e desenvolvimento web**
+🎯 Perfil analítico, comunicativo e orientado a dados
 
 ---
 
-## 📊 Estatísticas
+# 🚀 Tecnologias e Ferramentas
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEUUSER&show_icons=true&theme=radical)
+## 📊 Dados e Banco de Dados
+
+![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge\&logo=postgresql)
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge\&logo=powerbi)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge\&logo=microsoft-excel)
 
 ---
 
-## 📫 Contato
+## 🧠 Linguagens
 
-- LinkedIn
-- Email
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge\&logo=php)
+
+---
+
+## 🌐 Desenvolvimento Web
+
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge\&logo=html5)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge\&logo=css3)
+
+---
+
+## ⚙️ Ferramentas
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github)
+![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge\&logo=visualstudiocode)
+
+---
+
+# 🌐 Portfólio
+
+🚀 Confira meu portfólio com projetos e experiências.
+
+🔗 https://portfolio-rebuild-4.preview.emergentagent.com/
+
+---
+
+# 📊 Projetos em Destaque
+
+## 🪑 Plan Móveis Planejados
+
+Website institucional desenvolvido para empresa de móveis planejados com layout responsivo e foco em apresentação de serviços.
+
+**Tecnologias**
+HTML • CSS • JavaScript
+
+🔗 https://plan-moveis-planejados.vercel.app/
+
+---
+
+## ☀️ Calculadora Solar
+
+Aplicação web que simula economia com energia solar e cálculo de consumo energético.
+
+**Tecnologias**
+JavaScript • HTML • CSS
+
+🔗 https://calculadoradpsolar.lovable.app/
+
+---
+
+## 💳 Plataforma Benefiz
+
+Sistema web voltado para soluções financeiras e benefícios.
+
+🔗 https://benefiz.com.br/
+
+---
+
+# 📈 Estatísticas do GitHub
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=SEUUSUARIO\&show_icons=true\&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO\&layout=compact\&theme=tokyonight)
+
+---
+
+# 🐍 Contribuições
+
+![Snake animation](https://github.com/SEUUSUARIO/SEUUSUARIO/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+# 📫 Contato
+
+💼 LinkedIn
+https://www.linkedin.com/in/nicolas-alan-alcantara-moraes-2154a5198/
+
+📧 Email
+[nickalcantara230@gmail.com](mailto:nickalcantara230@gmail.com)
+
+---
+
+⭐ Sempre buscando evoluir em **dados, automação e desenvolvimento de sistemas**.
