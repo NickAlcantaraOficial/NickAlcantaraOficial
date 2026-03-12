@@ -1,7 +1,7 @@
 # 👋 Olá! Eu sou Nicolas Alan Alcantara Moraes
 
 💻 Estudante de **Análise e Desenvolvimento de Sistemas**
-📊 Focado em **Análise de Dados, Automação e Desenvolvimento Web**
+📊 Focado em **Análise de Dados, Automação, IA e Desenvolvimento Web**
 🚀 Experiência prática com **SQL, Python, PostgreSQL e desenvolvimento web**
 🎯 Perfil analítico, comunicativo e orientado a dados
 
