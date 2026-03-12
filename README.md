@@ -1,4 +1,4 @@
-# 👋 Olá! Eu sou Nicolas Alan Alcantara Moraes
+# Nicolas Alan Alcantara Moraes
 
 💻 Estudante de **Análise e Desenvolvimento de Sistemas**
 📊 Focado em **Análise de Dados, Automação, IA e Desenvolvimento Web**
@@ -88,13 +88,6 @@ Sistema web voltado para soluções financeiras e benefícios.
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=SEUUSUARIO\&show_icons=true\&theme=tokyonight)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO\&layout=compact\&theme=tokyonight)
-
----
-
-# 🐍 Contribuições
-
-![Snake animation](https://github.com/SEUUSUARIO/SEUUSUARIO/blob/output/github-contribution-grid-snake.svg)
-
 ---
 
 # 📫 Contato
